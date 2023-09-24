@@ -1,0 +1,2 @@
+This lab requires to create a class called polynomial with 2 constructors. One is a no argument one that just initializes polynomial to zero then the other is a 
+argument one that initializes the polnomial based on the argument array. Three methods, hasRoot, evaluate, and add needs to be developed
